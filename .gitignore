@@ -1,0 +1,6 @@
+NOTEEVENTS.csv
+*.DS_Store
+data/raw/
+data/processed/
+*.ipynb_checkpoints
+word2vec/
